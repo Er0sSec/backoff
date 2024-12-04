@@ -2,13 +2,13 @@
 
 A simple exponential backoff counter in Go (Golang)
 
-[![GoDoc](https://godoc.org/github.com/jpillora/backoff?status.svg)](https://godoc.org/github.com/jpillora/backoff)
-[![Build Status](https://github.com/jpillora/backoff/actions/workflows/build.yml/badge.svg)](https://github.com/jpillora/backoff/actions/workflows/build.yml)
+[![GoDoc](https://godoc.org/github.com/Er0sSec/backoff?status.svg)](https://godoc.org/github.com/Er0sSec/backoff)
+[![Build Status](https://github.com/Er0sSec/backoff/actions/workflows/build.yml/badge.svg)](https://github.com/Er0sSec/backoff/actions/workflows/build.yml)
 
 ### Install
 
 ```
-$ go get -v github.com/jpillora/backoff
+$ go get -v github.com/Er0sSec/backoff
 ```
 
 ### Usage
